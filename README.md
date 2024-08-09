@@ -1,4 +1,4 @@
-# Personality Test Application
+# Personality Test Application (Access to Full Repository Available Upon Request)
 
 ## Description
 This C++ application conducts a personality test by asking users a series of questions and then matches them with fictional characters based on their responses. Utilizing linear algebra and data structures such as sets and maps, the program allows users to select from various fictional universes and find out which character they resemble the most. The results include both unnormalized and normalized scores across five different personality traits: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
@@ -24,3 +24,7 @@ This C++ application conducts a personality test by asking users a series of que
 
 ## Instructions
 Select the number of questions, answer them, choose a universe, or explore the creative component by entering ‘10’ at the universe selection prompt. Note: the creative component option should only be chosen after having chosen one or more universes.
+
+## Code Availability
+
+Due to copyright restrictions, the complete source code is not included in this public repository. However, if you are interested in reviewing the full code, I can provide access to the entire private repository. Please contact me directly, and I will be happy to grant you permission to read the repository.
